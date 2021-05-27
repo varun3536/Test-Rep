@@ -1,0 +1,19 @@
+{
+  "name": "varun3536-test",
+  "version": "1.0.0",
+  "description": "This is test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun3536/Test-Rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varun3536/Test-Rep/issues"
+  },
+  "homepage": "https://github.com/varun3536/Test-Rep#readme"
+}
